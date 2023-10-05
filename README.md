@@ -1,1 +1,1 @@
-# chatbot
+This project is a Flask-based web chat application that employs the DialoGPT-medium model for generating conversational responses. It allows users to have text-based conversations with the AI model through a web interface.
